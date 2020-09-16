@@ -31,6 +31,6 @@
 - 대상: **숙명인**이라면 누구나!
 - 기여 방법: 추후 업로드 예정!
 
-![QuickSookLogo](./icons/quickSookLogo.png)
+![QuickSookLogo](./icons/quickSookIcon.png)
 
 많이 응원해주세요!
