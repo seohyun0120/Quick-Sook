@@ -1,11 +1,13 @@
 # ❄️ 퀵숙 Quick Sook
 
-| 출시일   | 버전   |
-| -------- | ------ |
-| 2020.09.17| v1.0.0 |
+| browser | 버전   | 최근 업데이트일 |
+| ------- | ------ | --------------- |
+| chrome  | v1.0.0 | 심사중          |
+| whale   | v1.0.0 | 2020.09.17      |
 
-**웨일브라우저**를 사용하는 **숙명인**들을 위해 확장앱을 만들었습니다.
-[다운 받기](https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai)
+**웨일브라우저**와 **크롬 브라우저**를 사용하는 **숙명인**들을 위해 확장앱을 만들었습니다.
+
+[웨일 확장앱 다운 받기](https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai)
 
 ## 주요 기능
 
@@ -23,9 +25,8 @@
 - 수강신청 퀵링크
 - 스노로즈 (교내 커뮤니티)
 
-![Preview](./preview/screenshot.png)
-
-(크롬 확장앱도 곧 출시 예정입니다.)
+![Preview_chrome](./preview/preview_chrome.png)
+![Preview_whale](./preview/preview_whale.png)
 
 ## 기여하기
 
@@ -34,6 +35,6 @@
 - 대상: **숙명인**이라면 누구나!
 - 기여 방법: 추후 업로드 예정!
 
-![QuickSookLogo](./icons/quickSookIcon.png)
+![QuickSookLogo](./whale/icon/../icons/quickSookIcon.png)
 
 많이 응원해주세요!
