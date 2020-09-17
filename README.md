@@ -5,6 +5,7 @@
 | 2020.09.17| v1.0.0 |
 
 **웨일브라우저**를 사용하는 **숙명인**들을 위해 확장앱을 만들었습니다.
+[다운 받기](https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai)
 
 ## 주요 기능
 
