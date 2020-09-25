@@ -33,7 +33,7 @@
 이제 막 출시한 **퀵숙**에 날개를 달아주세요!!
 
 - 대상: **숙명인**이라면 누구나!
-- 기여 방법: 추후 업로드 예정!
+- 참여 방법: [CONTRIBUTING.md](CONTRIBUTING.md)를 참고해주세요.
 
 ![QuickSookLogo](./whale/icon/../icons/quickSookIcon.png)
 
