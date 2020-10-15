@@ -21,7 +21,7 @@ img.icon-center {
 img.icon-noonsong {
     width  : 50px;
     height : 50px;
-    padding: 10px 0 15px 0;
+    padding: 10px 10px 15px 0;
 }
 
 div.noonsong-container {
@@ -69,6 +69,11 @@ div.icon-container:hover {
 }
 
 div.the-end {
-    width   : 225px;
+    width   : 150px;
     position: relative;
+}
+
+div.the-end:hover {
+    background-color: #f0f6fd;
+    border-radius   : 5%;
 }
