@@ -11,7 +11,7 @@ const SookmyungQuickEnrollmentURL = "https://smap.sookmyung.ac.kr:8443/sap/bc/we
 const SookmyungWiseURL = "https://wise.sookmyung.ac.kr/"
 
 function openURLInNewTab(url) {
-    whale.tabs.create({ url });
+    chrome.tabs.create({ url });
 }
 
 document.getElementById('clickSnowe').addEventListener('click', () => { openURLInNewTab(SnoweURL) }, false);
