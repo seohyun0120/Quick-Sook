@@ -2,12 +2,13 @@
 
 | browser | 버전   | 최근 업데이트일   |
 | ------- | ------ | ----------------- |
-| chrome  | v1.0.1 | 2020.10.15 심사중 |
-| whale   | v1.0.1 | 2020.10.15 심사중 |
+| chrome  | v1.0.1 | 2020.10.16 |
+| whale   | v1.0.1 | 2020.10.16 |
 
 **웨일브라우저**와 **크롬 브라우저**를 사용하는 **숙명인**들을 위해 확장앱을 만들었습니다.
 
-[웨일 확장앱 다운 받기](https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai)
+- [웨일 확장앱 다운 받기](https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai)
+- [크롬 확장앱 다운받기](https://chrome.google.com/webstore/detail/%ED%80%B5%EC%88%99-quick-sookmyung/opbdhobmmhocjmdjcagkafpigmfogpbf?hl=ko)
 
 ## 주요 기능
 
