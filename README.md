@@ -1,19 +1,20 @@
 # ❄️ 퀵숙 Quick Sook
 
-| browser | 버전   | 최근 업데이트일 |
-| ------- | ------ | --------------- |
-| chrome  | v1.0.0 | 심사중          |
-| whale   | v1.0.0 | 2020.09.17      |
+| browser | 버전   | 최근 업데이트일   |
+| ------- | ------ | ----------------- |
+| chrome  | v1.0.1 | 2020.10.16 |
+| whale   | v1.0.1 | 2020.10.16 |
 
 **웨일브라우저**와 **크롬 브라우저**를 사용하는 **숙명인**들을 위해 확장앱을 만들었습니다.
 
-[웨일 확장앱 다운 받기](https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai)
+- [웨일 확장앱 다운 받기](https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai)
+- [크롬 확장앱 다운받기](https://chrome.google.com/webstore/detail/%ED%80%B5%EC%88%99-quick-sookmyung/opbdhobmmhocjmdjcagkafpigmfogpbf?hl=ko)
 
 ## 주요 기능
 
 숙명인들이 자주 사용하는 웹사이트를 모아두었습니다.
 
-총 9개의 사이트를 제공하며 제공 범위는 다음과 같습니다.
+총 10개의 사이트를 제공하며 제공 범위는 다음과 같습니다.
 
 - 숙명여자대학교 홈페이지
 - 숙명 포털
@@ -24,6 +25,7 @@
 - 스노웨이
 - 수강신청 퀵링크
 - 스노로즈 (교내 커뮤니티)
+- 비교과프로그램
 
 ![Preview_chrome](./preview/preview_chrome.png)
 ![Preview_whale](./preview/preview_whale.png)
