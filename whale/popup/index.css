@@ -1,79 +1,102 @@
-@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800');
+@import url("https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800");
 
 body {
-    width     : 310px;
+  width: 310px;
+  min-height: 235px;
+  margin: 5px;
+  background: #fff;
+  color: #000;
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    width: 310px;
     min-height: 235px;
-    margin    : 5px;
+    margin: 5px;
+    background: #000;
+    color: #fff;
+  }
 }
 
 img {
-    width        : 30px;
-    height       : 30px;
-    border-radius: 30%;
-    padding      : 5px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30%;
+  padding: 5px;
 }
 
 img.icon-center {
-    display: block;
-    margin : auto;
+  display: block;
+  margin: auto;
 }
 
 img.icon-noonsong {
-    width  : 50px;
-    height : 50px;
-    padding: 10px 10px 15px 0;
+  width: 50px;
+  height: 50px;
+  padding: 10px 10px 15px 0;
 }
 
 div.noonsong-container {
-    position: absolute;
-    right   : 1px;
-    display : block;
-    cursor  : pointer;
+  position: absolute;
+  right: 1px;
+  display: block;
+  cursor: pointer;
 }
 
 div.icon-wrapper {
-    width     : 75px;
-    height    : 40px;
-    margin-top: 10px;
+  width: 75px;
+  height: 40px;
+  margin-top: 10px;
 }
 
 span {
-    font-size  : 11px;
-    font-weight: 500;
-    font-family: 'Nanum Gothic';
+  font-size: 11px;
+  font-weight: 500;
+  font-family: "Nanum Gothic";
 }
 
 div.icon-container {
-    width     : 75px;
-    height    : 75px;
-    display   : block;
-    cursor    : pointer;
-    text-align: center;
+  width: 75px;
+  height: 75px;
+  display: block;
+  cursor: pointer;
+  text-align: center;
 }
 
 div.icon-container:hover {
-    background-color: #e9ecef;
-    border-radius   : 15%;
+  background-color: #e9ecef;
+  border-radius: 15%;
+}
+@media (prefers-color-scheme: dark) {
+  div.icon-container:hover {
+    background-color: #555555;
+    border-radius: 15%;
+  }
 }
 
 #grid {
-    display              : grid;
-    height               : 80px;
-    grid-template-columns: 80px;
+  display: grid;
+  height: 80px;
+  grid-template-columns: 80px;
 }
 
 #container {
-    display        : flex;
-    justify-content: flex-start;
-    flex-wrap      : wrap;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
 }
 
 div.the-end {
-    width   : 150px;
-    position: relative;
+  width: 150px;
+  position: relative;
 }
 
 div.the-end:hover {
-    background-color: #f0f6fd;
-    border-radius   : 5%;
+  background-color: #f0f6fd;
+  border-radius: 5%;
+}
+@media (prefers-color-scheme: dark) {
+  div.the-end:hover {
+    background-color: #555555;
+    border-radius: 15%;
+  }
 }
