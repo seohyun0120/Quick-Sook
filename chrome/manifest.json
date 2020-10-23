@@ -15,7 +15,6 @@
     }
   },
   "permissions": [
-    "tabs",
     "http://*.sookmyung.ac.kr/*",
     "https://*.sookmyung.ac.kr/*",
     "https://github.com/*",
