@@ -1,14 +1,14 @@
 # ❄️ 퀵숙 Quick Sook
 
-| browser | 버전   | 최근 업데이트일   |
-| ------- | ------ | ----------------- |
-| chrome  | v1.0.1 | 2020.10.17 |
-| whale   | v1.0.1 | 2020.10.15 |
+| browser | 버전   | 최근 업데이트일    |
+| ------- | ------ | ------------------ |
+| chrome  | v1.0.2 | 검토 대기중        |
+| whale   | v1.0.2 | 2020.10.21, 심사중 |
 
 **웨일브라우저**와 **크롬 브라우저**를 사용하는 **숙명인**들을 위해 확장앱을 만들었습니다.
 
 - [웨일 확장앱 다운 받기](https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai)
-- [크롬 확장앱 다운받기](https://chrome.google.com/webstore/detail/%ED%80%B5%EC%88%99-quick-sookmyung/opbdhobmmhocjmdjcagkafpigmfogpbf?hl=ko)
+- 크롬 확장앱 다운받기
 
 ## 주요 기능
 
@@ -32,7 +32,7 @@
 
 ## 기여하기
 
-이제 막 출시한 **퀵숙**에 날개를 달아주세요!!
+**퀵숙**에 날개를 달아주세요!!
 
 - 대상: **숙명인**이라면 누구나!
 - 참여 방법: [CONTRIBUTING.md](CONTRIBUTING.md)를 참고해주세요.
