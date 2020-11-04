@@ -1,14 +1,27 @@
 # ❄️ 퀵숙 Quick Sook
 
-| browser | 버전   | 최근 업데이트일    |
-| ------- | ------ | ------------------ |
-| chrome  | v1.0.2 | 검토 대기중        |
-| whale   | v1.0.2 | 2020.10.21, 심사중 |
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+| browser | 버전 | 최근 업데이트일 |
+| ------- | ---- | --------------- |
+| chrome  | v1.1 | 2020.10.27      |
+| whale   | v1.1 | 2020.10.26      |
 
 **웨일브라우저**와 **크롬 브라우저**를 사용하는 **숙명인**들을 위해 확장앱을 만들었습니다.
 
 - [웨일 확장앱 다운 받기](https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai)
 - [크롬 확장앱 다운받기](https://chrome.google.com/webstore/detail/%ED%80%B5%EC%88%99-quick-sookmyung/ojiacghdlkbcfphkggebiiblbhheiopc)
+
+## 기여하기
+
+**퀵숙**에 날개를 달아주세요!!
+
+- 대상: **숙명인**이라면 누구나!
+- 참여 방법: [CONTRIBUTING.md](CONTRIBUTING.md)를 참고해주세요.
+
+![QuickSookLogo](./whale/icon/../icons/quickSookIcon.png)
+
+많이 응원해주세요!
 
 ## 주요 기능
 
@@ -29,14 +42,3 @@
 
 ![Preview_chrome](./preview/preview_chrome.png)
 ![Preview_whale](./preview/preview_whale.png)
-
-## 기여하기
-
-**퀵숙**에 날개를 달아주세요!!
-
-- 대상: **숙명인**이라면 누구나!
-- 참여 방법: [CONTRIBUTING.md](CONTRIBUTING.md)를 참고해주세요.
-
-![QuickSookLogo](./whale/icon/../icons/quickSookIcon.png)
-
-많이 응원해주세요!
