@@ -8,7 +8,8 @@ const SookmyungHomeURL = "http://www.sookmyung.ac.kr/";
 const SookmyungPortalURL = "https://portal.sookmyung.ac.kr";
 const SookmyungPhoneBookURL = "http://www.sookmyung.ac.kr/sookmyungkr/978/subview.do";
 const SookmyungQuickEnrollmentURL = "https://smap.sookmyung.ac.kr:8443/sap/bc/webdynpro/sap/zcmw2403";
-const SookmyungWiseURL = "https://wise.sookmyung.ac.kr/"
+const SookmyungWiseURL = "https://wise.sookmyung.ac.kr/";
+const SookmyungLibraryURL = "https://lib.sookmyung.ac.kr/";
 
 function openURLInNewTab(url) {
     whale.tabs.create({ url });
@@ -24,4 +25,5 @@ document.getElementById('clickPortal').addEventListener('click', () => { openURL
 document.getElementById('clickSnorose').addEventListener('click', () => { openURLInNewTab(SnoroseURL) }, false);
 document.getElementById('clickSMEnrollment').addEventListener('click', () => { openURLInNewTab(SookmyungQuickEnrollmentURL) }, false);
 document.getElementById('clickSMWise').addEventListener('click', () => { openURLInNewTab(SookmyungWiseURL) }, false);
+document.getElementById('clickSMLibrary').addEventListener('click', () => { openURLInNewTab(SookmyungLibraryURL) }, false);
 document.getElementById('clickEasterEgg').addEventListener('click', () => { openURLInNewTab(GitRepoURL) }, false);
