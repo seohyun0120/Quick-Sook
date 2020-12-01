@@ -36,8 +36,8 @@
 - 비교과프로그램
 - 중앙도서관
 
-![Preview_chrome](./preview/preview_chrome.png)
-![Preview_whale](./preview/preview_whale.png)
+![Preview_chrome](./preview/chrome_preview_1.png)
+![Preview_whale](./preview/whale_preview_1.png)
 
 ## 저작권 표시
 
