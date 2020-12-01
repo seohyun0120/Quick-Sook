@@ -3,10 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contact: sarahseohyun@gmail.com](https://img.shields.io/badge/Contact-sarahseohyun@gmail.com-important)](mailto:sarahseohyun@gmail.com)
 
-| browser | 버전   | 최근 업데이트일      |
-| ------- | ------ | -------------------- |
-| chrome  | v1.1.1 | 2020.11.28, `심사중` |
-| whale   | v1.1.1 | 2020.11.28, `심사중` |
+| browser | 버전   | 최근 업데이트일 |
+| ------- | ------ | --------------- |
+| chrome  | v1.1.1 | 2020.11.28      |
+| whale   | v1.1.1 | 2020.11.30      |
 
 **웨일브라우저**와 **크롬 브라우저**를 사용하는 **숙명인**들을 위해 확장앱을 만들었습니다.
 
