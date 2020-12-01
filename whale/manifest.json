@@ -1,23 +1,23 @@
 {
-  "manifest_version": 2,
-  "name": "퀵숙 Quick Sookmyung",
-  "version": "1.1",
-  "description": "숙명여자대학교 학생들이 필요한 모든 웹사이트를 모았습니다.",
-  "icons": {
-    "16": "./icons/quickSookLogo.png",
-    "48": "./icons/quickSookLogo.png",
-    "128": "./icons/quickSookLogo.png"
-  },
-  "browser_action": {
-    "default_popup": "./popup/index.html",
-    "default_icon": {
-      "16": "./icons/quickSookLogo.png"
-    }
-  },
-  "permissions": [
-    "http://*.sookmyung.ac.kr/*",
-    "https://*.sookmyung.ac.kr/*",
-    "https://github.com/*",
-    "http://www.snorose.com/"
-  ]
+    "manifest_version": 2,
+    "name": "퀵숙 Quick Sookmyung",
+    "version": "1.1.1",
+    "description": "숙명여자대학교 학생들이 필요한 모든 웹사이트를 모았습니다.",
+    "icons": {
+        "16": "./icons/quickSookLogo.png",
+        "48": "./icons/quickSookLogo.png",
+        "128": "./icons/quickSookLogo.png"
+    },
+    "browser_action": {
+        "default_popup": "./popup/index.html",
+        "default_icon": {
+            "16": "./icons/quickSookLogo.png"
+        }
+    },
+    "permissions": [
+        "http://*.sookmyung.ac.kr/*",
+        "https://*.sookmyung.ac.kr/*",
+        "https://github.com/*",
+        "http://www.snorose.com/"
+    ]
 }
