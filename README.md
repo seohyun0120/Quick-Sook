@@ -13,6 +13,22 @@
 - [웨일 확장앱 다운 받기](https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai)
 - [크롬 확장앱 다운받기](https://chrome.google.com/webstore/detail/%ED%80%B5%EC%88%99-quick-sookmyung/ojiacghdlkbcfphkggebiiblbhheiopc)
 
+## 저작권 표시
+
+- [MIT License](LICENSE)
+- 로고와 확장앱 개발에 사용된 숙명여자대학교 캐릭터 '눈송이' 및 숙명여자대학교 로고의 저작권은 숙명여자대학교에 있습니다.
+- 해당 레포를 활용하여 타학교용 확장앱을 개발하시는 경우, **웨일과 크롬 확장앱 소개란에 원작자를 표시**해주세요. 아래 내용 복사해서 작성해주시길 바랍니다.(2021/1/12 업데이트)
+
+```
+// 웨일용
+Origin Repo: https://github.com/seohyun0120/Quick-Sook
+Origin: 숙명여대 웨일 확장앱(퀵숙 Quick Sookmyung) - https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai
+
+// 크롬용
+Origin Repo: https://github.com/seohyun0120/Quick-Sook
+Origin: 숙명여대 크롬 확장앱(퀵숙 Quick Sookmyung) - https://chrome.google.com/webstore/detail/%ED%80%B5%EC%88%99-quick-sookmyung/ojiacghdlkbcfphkggebiiblbhheiopc
+```
+
 ## 기여하기
 
 - 대상: **숙명인**이라면 누구나!
@@ -38,8 +54,3 @@
 
 ![Preview_chrome](./preview/preview_chrome_1.png)
 ![Preview_whale](./preview/preview_whale_1.png)
-
-## 저작권 표시
-
-- [MIT License](LICENSE)
-- 로고와 확장앱 개발에 사용된 숙명여자대학교 캐릭터 '눈송이'의 저작권은 숙명여자대학교에 있습니다.
