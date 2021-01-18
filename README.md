@@ -3,10 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contact: sarahseohyun@gmail.com](https://img.shields.io/badge/Contact-sarahseohyun@gmail.com-important)](mailto:sarahseohyun@gmail.com)
 
-| browser | 버전   | 최근 업데이트일 |
-| ------- | ------ | --------------- |
-| chrome  | v1.1.1 | 2020.11.28      |
-| whale   | v1.1.1 | 2020.11.30      |
+| browser | 버전 | 최근 업데이트일    |
+| ------- | ---- | ------------------ |
+| chrome  | v1.2 | 2021.01.18(심사중) |
+| whale   | v1.2 | 2021.01.18(심사중) |
 
 **웨일브라우저**와 **크롬 브라우저**를 사용하는 **숙명인**들을 위해 확장앱을 만들었습니다.
 
@@ -38,7 +38,7 @@ Origin: 숙명여대 크롬 확장앱(퀵숙 Quick Sookmyung) - https://chrome.g
 
 숙명인들이 자주 사용하는 웹사이트를 모아두었습니다.
 
-총 11개의 사이트를 제공하며 제공 범위는 다음과 같습니다.
+총 12개의 사이트를 제공하며 제공 범위는 다음과 같습니다.
 
 - 숙명여자대학교 홈페이지
 - 숙명 포털
@@ -51,6 +51,7 @@ Origin: 숙명여대 크롬 확장앱(퀵숙 Quick Sookmyung) - https://chrome.g
 - 스노로즈 (교내 커뮤니티)
 - 비교과프로그램
 - 중앙도서관
+- 강의시간표 조회
 
 ![Preview_chrome](./preview/preview_chrome_1.png)
 ![Preview_whale](./preview/preview_whale_1.png)
