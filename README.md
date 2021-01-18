@@ -53,5 +53,5 @@ Origin: 숙명여대 크롬 확장앱(퀵숙 Quick Sookmyung) - https://chrome.g
 - 중앙도서관
 - 강의시간표 조회
 
-![Preview_chrome](./preview/preview_chrome_1.png)
-![Preview_whale](./preview/preview_whale_1.png)
+![Preview_chrome](./preview/chrome_screenshot.png)
+![Preview_whale](./preview/whale_screenshot.png)
