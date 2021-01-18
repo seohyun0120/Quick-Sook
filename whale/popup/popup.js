@@ -10,6 +10,7 @@ const SookmyungPhoneBookURL = "http://www.sookmyung.ac.kr/sookmyungkr/978/subvie
 const SookmyungQuickEnrollmentURL = "https://smap.sookmyung.ac.kr:8443/sap/bc/webdynpro/sap/zcmw2403";
 const SookmyungWiseURL = "https://wise.sookmyung.ac.kr/";
 const SookmyungLibraryURL = "https://lib.sookmyung.ac.kr/";
+const SookmyungClassCourseURL = "https://portal.sookmyung.ac.kr/irj/servlet/prt/portal/prtmode/preview/prtroot/pcd!3aportal_content!2fedu.sookmyung.externalLink_folder!2fedu.sookmyung.iviews_folder!2fedu.sookmyung.zcmw2237?sap-config-mode=true";
 
 function openURLInNewTab(url) {
     whale.tabs.create({ url });
@@ -26,4 +27,17 @@ document.getElementById('clickSnorose').addEventListener('click', () => { openUR
 document.getElementById('clickSMEnrollment').addEventListener('click', () => { openURLInNewTab(SookmyungQuickEnrollmentURL) }, false);
 document.getElementById('clickSMWise').addEventListener('click', () => { openURLInNewTab(SookmyungWiseURL) }, false);
 document.getElementById('clickSMLibrary').addEventListener('click', () => { openURLInNewTab(SookmyungLibraryURL) }, false);
+document.getElementById('clickClassCourse').addEventListener('click', () => { openURLInNewTab(SookmyungClassCourseURL) }, false);
 document.getElementById('clickEasterEgg').addEventListener('click', () => { openURLInNewTab(GitRepoURL) }, false);
+
+let easterEggId = document.getElementById('clickEasterEgg');
+easterEggId.addEventListener('mouseover', hoverNoonsong, false);
+easterEggId.addEventListener('mouseout', unhoverNoonsong, false);
+
+function hoverNoonsong() {
+    easterEggId.setAttribute('src', '../icons/quickSookLogo.png');
+}
+
+function unhoverNoonsong() {
+    easterEggId.setAttribute('src', '../icons/noonsong-pixel.png');
+}
