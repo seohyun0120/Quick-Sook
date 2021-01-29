@@ -5,8 +5,8 @@
 
 | browser | 버전 | 최근 업데이트일    |
 | ------- | ---- | ------------------ |
-| chrome  | v1.2 | 2021.01.20 |
-| whale   | v1.2 | 2021.01.20 |
+| chrome  | v1.3 | 2021.01.29(검토중) |
+| whale   | v1.3 | 2021.01.29(검토중) |
 
 **웨일브라우저**와 **크롬 브라우저**를 사용하는 **숙명인**들을 위해 확장앱을 만들었습니다.
 
@@ -38,7 +38,7 @@ Origin: 숙명여대 크롬 확장앱(퀵숙 Quick Sookmyung) - https://chrome.g
 
 숙명인들이 자주 사용하는 웹사이트를 모아두었습니다.
 
-총 12개의 사이트를 제공하며 제공 범위는 다음과 같습니다.
+총 13개의 사이트를 제공하며 제공 범위는 다음과 같습니다.
 
 - 숙명여자대학교 홈페이지
 - 숙명 포털
@@ -52,6 +52,6 @@ Origin: 숙명여대 크롬 확장앱(퀵숙 Quick Sookmyung) - https://chrome.g
 - 비교과프로그램
 - 중앙도서관
 - 강의시간표 조회
+- 눈송백서
 
-![Preview_chrome](./preview/chrome_screenshot.png)
 ![Preview_whale](./preview/whale_screenshot.png)
