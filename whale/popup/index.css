@@ -31,8 +31,16 @@ img.icon-center {
 }
 
 img.icon-noonsong {
-    width       : 35px;
-    height      : 35px;
+    width       : 30px;
+    height      : 30px;
+    display     : block;
+    margin-left : auto;
+    margin-right: auto;
+}
+
+img.icon-smuwhitepaper {
+    width       : 30px;
+    height      : 30px;
     display     : block;
     margin-left : auto;
     margin-right: auto;
@@ -53,6 +61,17 @@ span {
     font-size  : 11px;
     font-weight: 500;
     font-family: "Nanum Gothic";
+}
+
+span.text-style {
+    margin-top   : auto;
+    margin-bottom: auto;
+    font-weight  : 700;
+}
+
+div.bottom-container {
+    display: inline-flex;
+    margin : 0 35px;
 }
 
 div.icon-container {
@@ -88,8 +107,9 @@ div.icon-container:hover {
 }
 
 div.the-end {
-    width : 100%;
+    width : 50%;
     height: 40px;
+    cursor: pointer;
 }
 
 div.the-end:hover {
